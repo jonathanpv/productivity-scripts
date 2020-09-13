@@ -31,7 +31,7 @@ Just focus on the search and you'll see that you will be more precise on the vid
 Just in case you accidentally hit trending, hiding the trending page will let you stay calm about being bombarded with Movie Trailers and Music Videos.
 
 Leaving your [ATP](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257700/) to be reserved for academic videos only 😎
----
+
 
 **Video recommendations hidden**
 ---
@@ -40,7 +40,7 @@ Leaving your [ATP](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3257700/) to be 
 Ever clicked on a video that's gonna successfully impact your career? Only to be lured in by the YouTube algorithm by super cute 1 hour looped cat videos?
 
 No? Just me? Well no worries! Now you don't have to worry about that anymore 😁
----
+
 
 **Video comments hidden**
 ---
@@ -49,4 +49,3 @@ No? Just me? Well no worries! Now you don't have to worry about that anymore �
 Don't even think about scrolling down, all those shots of dopamine curated by people and ranked by YouTube will no longer 
 
 steal your precious brain power!
----
