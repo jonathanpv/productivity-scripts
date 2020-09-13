@@ -1,0 +1,29 @@
+/*  Working on 4k monitor, blocks trending, home recommended, video-list recommended to allow you to focus on the video you need to watch 
+    Installation instructions on the read me in this folder*/
+ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-disabled {
+	display: none;
+}
+
+#items.ytd-watch-next-secondary-results-renderer {
+	display: none;
+}
+
+ytd-item-section-renderer#sections {
+	visibility: hidden;
+}
+
+ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-4-columns {
+	display: none;
+}
+
+ytd-section-list-renderer.style-scope.ytd-two-column-browse-results-renderer {
+    display: none;
+}
+
+yt-next-continuation.style-scope.ytd-watch-next-secondary-results-renderer {
+	display: none;
+}
+
+div#related {
+	display: none;
+}
