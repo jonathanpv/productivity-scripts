@@ -1,0 +1,5 @@
+@-moz-document url("https://linkedin.com"), url("https://www.linkedin.com/feed/") {
+    .core-rail {
+        visibility: hidden;
+    }
+    }
